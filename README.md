@@ -9,7 +9,7 @@
 ## Usage
 
 - 改 `epk.md`
-- `$ pandoc --standalone epk.md epk.html`
+- `$ make`
 - `$ open epk.html` (或是想辦法用瀏覽器去看 `epk.html`)
 
 ## TODO
