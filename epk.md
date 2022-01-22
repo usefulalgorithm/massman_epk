@@ -14,7 +14,7 @@ MassMan 的音樂風格自成團以來不停地改變，最初的作品受日本
 
 ### 歪打正鑿 / YDZZ
 
-![Album Cover](https://f4.bcbits.com/img/a1823009286_16.jpg)
+![Album Cover](./albums/ydzz.jpeg)
 
 Release Date: 2021/11/01
 
@@ -27,7 +27,7 @@ Streaming:
 
 ### 兔脫 / A Trip Into the Rabbit Hole
 
-![Album Cover](https://f4.bcbits.com/img/a1439109114_16.jpg)
+![Album Cover](./albums/tt.jpeg)
 
 Release Date: 2015/08/27
 
@@ -36,15 +36,23 @@ Streaming:
 - [Bandcamp](https://massman.bandcamp.com/album/a-trip-into-the-rabbit-hole)
 - [StreetVoice](https://streetvoice.com/massmanb99/songs/album/97265119/)
 
+Press:
+
+- [精準的節拍與音符 ─ MassMan《A Trip Into The Rabbit Hole》](https://blow.streetvoice.com/17020/)
+
 ### 同名 EP / Self-titled EPK
 
-![Album Cover](https://i.kfs.io/artist/global/1372554,0v1/fit/500x500.jpg)
+![Album Cover](./albums/st.png)
 
 Release Date: 2013/11/24
 
 Streaming:
 
 - [YouTube](https://www.youtube.com/playlist?list=PL84Gr3ot77o7Sd9IWFMqtSLvGzznOI8i2)
+
+Press:
+
+- [MassMan - 質量人吸引無邊際的奇想](https://www.xinmedia.com/article/15643)
 
 ## Pictures
 
